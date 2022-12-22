@@ -8,5 +8,5 @@ class Rectangle(object):
     def get_perimeter(self):
         return 2 * (self.width + self.height)
 
-rect = Rectangle(4,4,4,4)
-print(rect.get_perimeter())
+# rect = Rectangle(4,4,4,4)
+# print(rect.get_perimeter())
